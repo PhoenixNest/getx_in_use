@@ -17,4 +17,4 @@ mobile development, and a full API reference.
 
 ## Tutorial Links
 
-+ [Flutter Getx State Management Tutorial | GetBuilder | Obx | Update | Dependency Injection | Routing]("https://www.youtube.com/watch?v=uki8BS7xEug")
++ [Flutter Getx State Management Tutorial | GetBuilder | Obx | Update | Dependency Injection | Routing](https://www.youtube.com/watch?v=uki8BS7xEug)
