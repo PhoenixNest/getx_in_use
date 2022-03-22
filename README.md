@@ -8,4 +8,6 @@
 
 + [Basic - Contests App with GetX](https://github.com/PhoenixNest/getx_in_use/tree/main/basic_getx_contests_app)
 
++ [E-Commerce App with GetX](https://github.com/PhoenixNest/getx_in_use/tree/main/getx_e_commerce_app)
+
 + [Homework - Neo Tea App with GetX](https://github.com/PhoenixNest/getx_in_use/tree/main/homework_neo_tea_app)
